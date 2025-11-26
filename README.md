@@ -1,14 +1,14 @@
 <h2>Technologies and Stacks I master</h2>
 
 <p align="left">
-  <img src="assets/java.svg" width="60" />
-  <img src="assets/csharp.svg" width="60" />
-  <img src="assets/c.svg" width="60" />
-  <img src="assets/node.svg" width="60" />
-  <img src="assets/angular.svg" width="60" />
-  <img src="assets/php.svg" width="60" />
-  <img src="assets/sql.svg" width="60" />
-  <img src="assets/postman.svg" width="60" />
+  <img src="assets/java.png" width="60" />
+  <img src="assets/csharp.png" width="60" />
+  <img src="assets/c.png" width="60" />
+  <img src="assets/node.png" width="60" />
+  <img src="assets/angular.png" width="60" />
+  <img src="assets/php.png" width="60" />
+  <img src="assets/sql.png" width="60" />
+  <img src="assets/postman.png" width="60" />
 </p>
 
 
