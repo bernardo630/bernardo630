@@ -1,8 +1,20 @@
-## Technologies and Stacks I master
+<h2>Technologies and Stacks I master</h2>
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p style="display: flex; gap: 20px; align-items: center;">
+
+  <img src="assets/java.svg" width="70" />
+  <img src="assets/csharp.svg" width="70" />
+  <img src="assets/c.svg" width="70" />
+  <img src="assets/nodejs.svg" width="70" />
+  <img src="assets/angular.svg" width="70" />
+  <img src="assets/php.svg" width="70" />
+  <img src="assets/sql.svg" width="70" />
+  <img src="assets/postgres.svg" width="70" />
+  <img src="assets/jetbrains.svg" width="70" />
+  <img src="assets/clion.svg" width="70" />
+  <img src="assets/vscode.svg" width="70" />
+  <img src="assets/visualstudio.svg" width="70" />
+
+</p>
+
+## We travel in search of something and return home to find ourselves.
